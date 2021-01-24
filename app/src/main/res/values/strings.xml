@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JD equipamentos</string>
+    <string name="Botao">Botao</string>
+    <string name="TextoJDSplash">JD Equipamentos...</string>
+    <string name="TextoJDSplashBemvindo">Bem-vindo à</string>
+    <string name="TextoJDSplashCopyright">Copyright © JD EQUIPAMENTOS - v 1.0</string>
+    <string name="connectionError">Erro: você está sem conexão!</string>
+</resources>
